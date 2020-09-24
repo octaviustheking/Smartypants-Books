@@ -1,2 +1,2 @@
 # Smartypants-Books
-Here are great lessons on everything!
+## Here are great lessons on everything!
