@@ -19,6 +19,10 @@
             <li><a href="https://www.google.com/books/edition/The_Thrifty_Guide_to_Medieval_Times/aqN7DwAAQBAJ?hl=en&gbpv=0">The Thrifty Guide to Medieval Times</a> - Jonathan W. Stokes</li>
             <li><a href="https://www.google.com/books/edition/_/qvk3lHlXfP0C?hl=en">The Berlin Wall: A World Divided, 1961 - 1989</a> - Fred Taylor</li>
         </ul>
+        <h1>Health - Pandemics</h1>
+        <ul>
+            <li><a href="https://www.google.com/books/edition/Outbreak/zfolDgAAQBAJ?hl=en&gbpv=0">Outbreak!: 50 Tales of Epidemics that Terrorized the World</a> - Beth Skywrecki</li>
+        </ul>
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
 
