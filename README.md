@@ -17,6 +17,7 @@
             <li><a href="https://www.google.com/books/edition/The_Thrifty_Guide_to_Ancient_Rome/BbykDwAAQBAJ?hl=en&gbpv=0">The Thrifty Guide to Ancient Rome</a> - Jonathan W. Stokes</li>
             <li><a href="https://www.google.com/books/edition/The_Thrifty_Guide_to_the_American_Revolu/OLqkDwAAQBAJ?hl=en&gbpv=0">The Thrifty Guide to the American Revolution</a> - Jonathan W. Stokes</li>
             <li><a href="https://www.google.com/books/edition/The_Thrifty_Guide_to_Medieval_Times/aqN7DwAAQBAJ?hl=en&gbpv=0">The Thrifty Guide to Medieval Times</a> - Jonathan W. Stokes</li>
+            <li><a href="https://www.google.com/books/edition/_/qvk3lHlXfP0C?hl=en">The Berlin Wall: A World Divided, 1961 - 1989</a> - Fred Taylor</li>
         </ul>
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
